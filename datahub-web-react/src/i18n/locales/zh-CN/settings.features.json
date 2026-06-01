@@ -1,0 +1,21 @@
+{
+    "cloudLabel": "DataHub 云",
+    "docPropagation.assetLevelDescription": "基于数据血缘关系，将新的文档从上游传播到下游资产。",
+    "docPropagation.assetLevelTitle": "资产级别传播",
+    "docPropagation.backfillButton": "初始化",
+    "docPropagation.backfillTitle": "将现有文档从上游回填到下游列/资产",
+    "docPropagation.columnLevelDescription": "基于列级血缘关系，将新的文档从上游传播到下游列。",
+    "docPropagation.columnLevelTitle": "列级传播",
+    "docPropagation.comingSoon": "即将推出！",
+    "docPropagation.description": "自动将文档从上游传播到下游列和资产。",
+    "docPropagation.rollbackButton": "回滚",
+    "docPropagation.rollbackTitle": "回滚传播更改",
+    "docPropagation.title": "文档传播",
+    "docPropagation.updateError": "更新文档传播设置失败",
+    "docPropagation.updateSuccess": "成功更新文档传播设置",
+    "learnMore": "了解更多",
+    "newLabel": "新功能！",
+    "onlyOnCloud": "仅在 DataHub 云上可用",
+    "pageSubTitle": "探索并配置特定功能",
+    "pageTitle": "功能"
+}
